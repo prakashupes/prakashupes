@@ -13,7 +13,7 @@
 <a href="https://www.leetcode.com/prakash12t" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prakash12t" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prakashupes&show_icons=true&locale=en&layout=compact" alt="prakashupes" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=prakashupes&show_icons=true&include_all_commits=true" alt="prakashupes" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prakashupes&show_icons=true&locale=en" alt="prakashupes" /></p>
 
