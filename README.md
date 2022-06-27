@@ -15,6 +15,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=prakashupes&show_icons=true&include_all_commits=true" alt="prakashupes" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prakashupes&show_icons=true&locale=en" alt="prakashupes" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prakashupes&" alt="prakashupes" /></p>
