@@ -1,6 +1,3 @@
-
-
-
 <h2 align="center">Prakash Tiwari</h2>
 
 <p align="left" >Experince</p>
