@@ -3,16 +3,21 @@
 
 <h2 align="center">Prakash Tiwari</h2>
 
-<h4 align="left" color="red">Experince</h4>
+<p align="left" >Experince</p>
 <img align="left" src="https://user-images.githubusercontent.com/44925217/176137970-fb863f01-8dc3-4916-a157-720710cf4ea6.png" alt="prakashupes" width="200" height="100" /> 
-<img align="center" src="https://user-images.githubusercontent.com/44925217/176137254-f6882ac5-8720-4a94-aa18-380f262782e0.png" alt="prakashupes" width="100" height="100" /> 
+<img align="center" src="https://user-images.githubusercontent.com/44925217/176141366-b9193335-6f39-4189-9ce1-f58bd54ef65e.png" alt="prakashupes" width="150" height="150" /> 
 
 
-- 🔭 I’m currently working on [Spring Project](https://github.com/prakashupes/Spring-Projects)
+
+- 🔭 I’m currently working on [Spring Project](https://github.com/prakashupes/Spring-Projects) 
 
 - 📫 How to reach me **85prakash2017@gmail.com**
 
 - 📄 Know about my experiences [drive.google.com](drive.google.com)
+
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
